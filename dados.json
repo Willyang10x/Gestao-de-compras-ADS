@@ -1,1 +1,16 @@
-[]
+[
+    {
+        "id": 1,
+        "cliente": "Gabriel",
+        "produtos": "Farofa",
+        "valor_total": 20.0,
+        "data": "19/11/2025 20:47"
+    },
+    {
+        "id": 2,
+        "cliente": "Matheus",
+        "produtos": "Oleo,Butijao,Agua",
+        "valor_total": 200.0,
+        "data": "19/11/2025 20:50"
+    }
+]
